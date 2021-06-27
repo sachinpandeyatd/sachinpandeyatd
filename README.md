@@ -1,9 +1,9 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/sachinpandeyatd?label=Follow%20Me&style=social)](https://github.com/sachinpandeyatd)
 <br>
 <br>
-<p align="left"> <a href="https://twitter.com/sachinpandeyatd" target="blank"><img src="https://img.shields.io/twitter/follow/sachinpandeyatd?logo=twitter&style=for-the-badge" alt="sachinpandeyatd" /></a></p><br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-sachinpandeyatd-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/sachinpandeyatd/)<br>
-[![Mail](https://img.shields.io/badge/Hotmail-contact@sachinpandeyatd.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:contact@sachinpandeyatd.com)
+[![Mail](https://img.shields.io/badge/Hotmail-contact@sachinpandeyatd.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:contact@sachinpandeyatd.com)<br>
+<p align="left"> <a href="https://twitter.com/sachinpandeyatd" target="blank"><img src="https://img.shields.io/twitter/follow/sachinpandeyatd?logo=twitter&style=for-the-badge" alt="sachinpandeyatd" /></a></p><br>
 <br>
 <br>
 
