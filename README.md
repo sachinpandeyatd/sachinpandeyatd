@@ -1,8 +1,9 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/sachinpandeyatd?label=Follow%20Me&style=social)](https://github.com/sachinpandeyatd)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-sachinpandeyatd-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/sachinpandeyatd/)<br>
-[![Mail](https://img.shields.io/badge/Hotmail-contact@sachinpandeyatd.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:contact@sachinpandeyatd.com)
+<p align="left"> <a href="https://twitter.com/sachinpandeyatd" target="blank"><img src="https://img.shields.io/twitter/follow/sachinpandeyatd?logo=twitter&style=for-the-badge" alt="sachinpandeyatd" /></a></p><br>
+<p align="left"> <a href="https://www.linkedin.com/in/sachinpandeyatd/" target="blank"><img src="https://img.shields.io/linkedin/follow/sachinpandeyatd?logo=linkedin&style=for-the-badge" alt="sachinpandeyatd" /></a></p><br>
+<p align="left"> <a href="mailto:contact@sachinpandeyatd.com"><img src="https://img.shields.io/mail/follow/contact@sachinpandeyatd.com?logo=mail&style=for-the-badge" alt="sachinpandeyatd" /></a></p><br>
 <br>
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Sachin Pandey</strong></samp></h2>
@@ -51,6 +52,6 @@ I try staying at the forefront of my field and build applications that are relev
 
 </br>
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=sachinpandeyatd" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
