@@ -2,8 +2,9 @@
 <br>
 <br>
 <p align="left"> <a href="https://twitter.com/sachinpandeyatd" target="blank"><img src="https://img.shields.io/twitter/follow/sachinpandeyatd?logo=twitter&style=for-the-badge" alt="sachinpandeyatd" /></a></p><br>
-<p align="left"> <a href="https://www.linkedin.com/in/sachinpandeyatd/" target="blank"><img src="https://img.shields.io/linkedin/follow/sachinpandeyatd?logo=linkedin&style=for-the-badge" alt="sachinpandeyatd" /></a></p><br>
-<p align="left"> <a href="mailto:contact@sachinpandeyatd.com"><img src="https://img.shields.io/mail/follow/contact@sachinpandeyatd.com?logo=mail&style=for-the-badge" alt="sachinpandeyatd" /></a></p><br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-sachinpandeyatd-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/sachinpandeyatd/)<br>
+[![Mail](https://img.shields.io/badge/Hotmail-contact@sachinpandeyatd.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:contact@sachinpandeyatd.com)
+<br>
 <br>
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Sachin Pandey</strong></samp></h2>
