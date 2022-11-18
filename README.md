@@ -9,7 +9,7 @@
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Sachin Pandey</strong></samp></h2>
 <h3 align='center'><strong><a href="https://sachinpandeyatd.com" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Full-stack web developer | Data Scientist | Pythoneer</p>
+<p align='center'>Associate Software Engineer
 
 <p align='left'> 📫 I am Sachin Pandey, a B.Tech (CS&E) graduate and Associate Software Engineer in Infinite Computer Solutions.<br><br>
 
