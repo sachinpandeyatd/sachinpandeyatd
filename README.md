@@ -11,9 +11,9 @@
 <h3 align='center'><strong><a href="https://sachinpandeyatd.com" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Full-stack web developer | Data Scientist | Pythoneer</p>
 
-<p align='left'> 📫 I am Sachin Pandey, a Junior year B.Tech (CS&E) student from BBD University, Lucknow.<br><br>
+<p align='left'> 📫 I am Sachin Pandey, a B.Tech (CS&E) graduate and Associate Software Engineer in Infinite Computer Solutions.<br><br>
 
-Professionally, I am a full-stack web developer and like tinkering with datasets to reveal the patterns they're hiding, which can then be used to optimize a problem.<br><br>
+Professionally, I do full-stack web development and like tinkering with datasets to reveal the patterns they're hiding, which can then be used to optimize a problem.<br><br>
 
 I love modelling the real world so that I can reduce it into a virtual frame with the power and flexibility of code, and build solutions that are performant, scalable, and maintainable.<br><br>
 
