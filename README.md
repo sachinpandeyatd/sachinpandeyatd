@@ -2,7 +2,7 @@
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-sachinpandeyatd-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/sachinpandeyatd/)<br>
-[![Mail](https://img.shields.io/badge/Hotmail-contact@sachinpandeyatd.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:contact@sachinpandeyatd.com)<br>
+[![Mail](https://img.shields.io/badge/Email-33sachinedu@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:33sachinedu@gmail.com)<br>
 <p align="left"> <a href="https://twitter.com/sachinpandeyatd" target="blank"><img src="https://img.shields.io/twitter/follow/sachinpandeyatd?logo=twitter&style=for-the-badge" alt="sachinpandeyatd" /></a></p><br>
 <br>
 <br>
