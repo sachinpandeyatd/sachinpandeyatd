@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Sachin Pandey, a B.Tech (CS&E) graduate and Associate Software Engineer in Infinite Computer Solutions.<br>Professionally, I do full-stack web development and am currently building integrated solutions for optimising the US healthcare (Medicare and Medicaid) targeted at consumers daily.<br>
+I am Sachin Pandey, a B.Tech (CS&E) graduate and Software Engineer in Infinite Computer Solutions.<br>Professionally, I do full-stack web development and am currently building integrated solutions for optimising the US healthcare (Medicare and Medicaid) targeted at consumers daily.<br>
 
 
 ## 🌐 Socials:
